@@ -28,3 +28,5 @@ probably scale down in quality. As an application which is not part of the origi
 used to generate new sentences to test their generative power. Strategies and results will be discussed
 in the relative Experiments sections.
 Each of the three model types was implemented in a separate Python notebook. All notebooks can be found in this repository.
+
+This work was part of the Natural Language Processing course at the University of Genoa, Italy (Data Science and Engineering MSc, Artificial Intelligence track, 2021/22).
